@@ -1,0 +1,69 @@
+/*
+* @Author: 86156
+* @Date:   2020-12-14 20:57:10
+* @Last Modified by:   86156
+* @Last Modified time: 2020-12-15 23:13:46
+*/
+#cont{
+	height: 200px;
+	width: 300px;
+	margin: 0 auto;
+}
+.con{
+	float: left;
+}
+.num{
+	color: #000;
+	height: 25px;
+}
+.char{
+	color: #000;
+	height: 25px;
+}
+.name1{
+	width: 200px;
+	height: 50px;
+	border: 0px solid #000;
+	float: left;
+}
+.password{
+	width: 200px;
+	height: 50px;
+	border: 0px solid #ccc;
+	float: left;
+}
+.registered{
+	width: 304px;
+	height: 50px;
+	background-color: rgba(255,0,255,0.5);
+	border: 1.5px solid rgba(255,0,255,0.5);
+	color: #000;
+}
+.namebox{
+	width: 300px;
+	height: 50px;
+	border: 1.5px solid #ccc;
+	margin-bottom: 25px;
+}
+.passwordbox{
+	width: 300px;
+	height: 50px;
+	border: 1.5px solid #ccc;
+	margin-bottom: 25px;	
+}
+.username{
+	width: 100px;
+	height: 50px;
+	line-height: 50px;
+	color: #666;
+	text-align: center;
+	float: left;
+}
+.setpassword{
+	width: 100px;
+	height: 50px;
+	line-height: 50px;
+	color: #666;
+	text-align: center;
+	float: left;
+}

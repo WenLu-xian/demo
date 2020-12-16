@@ -1,0 +1,22 @@
+/*
+* @Author: 86156
+* @Date:   2020-12-15 14:06:34
+* @Last Modified by:   86156
+* @Last Modified time: 2020-12-15 19:46:12
+*/
+body,html{
+	height:1800px;
+}
+.up {
+	display: none; 
+	width: 100px;
+	height: 20px;
+	background:rgba(255,0,255,0.5); 
+	position: absolute;
+	right: 100px;
+	bottom: 150px;
+	text-align: center;
+}
+.toup{
+	position: relative;
+}
